@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/andersonlebon/Web-pack/issues"
   },
-  "homepage": "https://github.com/andersonlebon/Web-pack#readme"
+  "homepage": "https://github.com/andersonlebon/Web-pack#readme",
+  "dependencies": {
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2"
+  }
 }
