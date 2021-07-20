@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/andersonlebon/Web-pack#readme",
   "dependencies": {
+    "html-webpack-plugin": "^5.3.2",
     "save-dev": "*",
     "webpack": "^5.45.1",
     "webpack-cli": "^4.7.2",
